@@ -1,0 +1,16 @@
+extends ../shared/template
+
+block content
+  h1= title
+  div#container
+    input#user(type='text')
+    button#join Join
+    input#count(type="text")
+    button#pick Pick
+
+  table#users
+    head
+      tr
+        th User
+        th Letters
+    tbody
