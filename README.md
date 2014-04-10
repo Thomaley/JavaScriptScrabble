@@ -1,0 +1,4 @@
+JavaScriptScrabble
+==================
+
+Multiplayer JavaScript project.
